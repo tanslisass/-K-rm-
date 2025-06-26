@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "tanslisasskarma@gmail.com",
+		"password": "TanslixKarma77",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -21,7 +21,7 @@
 	"adminBot": [
 		"100076705691995"
 	],
-	"owner": ["100076705691995"],
+	"owner": [""],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
